@@ -6,8 +6,6 @@ Tento projekt je zo stránky [Frontend Mentor](https://www.frontendmentor.io/cha
 
 #### [Odkaz na hotový projekt](https://tomasdunik.github.io/frontend_mentor-QR_code_component/)
 
-<br/>
-
 ## 🏗️ Vytvorenie projektu
 
 Tento projekt je môj prvý zo stránky Frontend Mentor.
@@ -18,8 +16,6 @@ Tento projekt je môj prvý zo stránky Frontend Mentor.
 - HTML
 - CSS
 
-<br/>
-
 ## 📸 Screenshots
 
 ### 💻 Desktop
@@ -29,8 +25,6 @@ Tento projekt je môj prvý zo stránky Frontend Mentor.
 ### 📱 Mobil
 
 ![](./images/frontend_mentor-qr_code_component_mobile.png)
-
-<br/>
 
 ## 🔗 Projekty Frontend Mentor
 
